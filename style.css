@@ -45,3 +45,9 @@ li{
  text-align:center;
  color:lavender 
 }
+.row{
+    text-align:center;
+}
+.aes{
+border: 1px solid grey;
+}
